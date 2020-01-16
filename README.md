@@ -4,9 +4,15 @@
 
 This is a mod for the game of Don't Starve Together which is available in the Steam Workshop. 
 
-Wigfrid can eat fruits, vegetables and other foods with this mod.
+Wigfrid can eat fruits, vegetables and other foods.
+
+Wurt can eat meats.
 
 ## Changelog
+
+**Version 1.2.0**
+
+- Wurt can eat meats.
 
 ## License
 

@@ -1,9 +1,10 @@
 name = "No More Meatatarian"
 description = [[
-	Wigfrid can eat fruits, vegetables and other foods with this mod.
+	Wigfrid can eat fruits, vegetables and other foods.
+    Wurt can eat meats.
 ]]
-author = "[BSy]Jupiter"
-version = "1.1"
+author = "辣椒小皇纸"
+version = "1.2.0"
 
 forumthread = ""
 
